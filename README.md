@@ -1,1 +1,3 @@
-# fsa-cicd
+# PosAm Fullstack academy - DevOps Workshop
+
+## CI/CD Stack
